@@ -1,0 +1,6 @@
+{
+  "name": "ThermoDrift & Universal Document Engine",
+  "description": "Industrial Temperature Drift Detection & Early Warning System with digital twin, predictive intelligence, and universal document analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
